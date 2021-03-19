@@ -10,7 +10,7 @@ if ludosudo:
 else:
     sudou = "False"
 
-kraken = bot.uid
+Jackz = bot.uid
 
 PM_IMG = "https://file2linkrobot.herokuapp.com/2178086617326744/coollogo_com-17240882.gif.mp4"
 pm_caption = "__**𝔧𝔞𝔠𝔨𝔷𝔟𝔬𝔱 𝔦𝔰 𝔞𝔩𝔦𝔳𝔢**__\n\n"
